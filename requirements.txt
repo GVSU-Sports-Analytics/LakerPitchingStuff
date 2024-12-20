@@ -1,0 +1,3 @@
+git+github.com/Jensen-holm/statcast-era-pitches.git
+polars
+plotnine
